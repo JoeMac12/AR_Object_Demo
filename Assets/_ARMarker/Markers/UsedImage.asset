@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5366581504584869984
-      m_GuidHigh: 419694828236041867
+      m_GuidLow: 4874581173888090010
+      m_GuidHigh: 16466718271949324691
     m_SerializedTextureGuid:
-      m_GuidLow: 14881042335786019210
-      m_GuidHigh: 2278962954558413625
+      m_GuidLow: 6905220182421668202
+      m_GuidHigh: 7846462221926140232
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: BrownEagle
+    m_Name: BrownBear
     m_Texture: {fileID: 0}
